@@ -15,7 +15,7 @@ Hey there! I’m Pratibha Meher (cherry99217) 🌸
  Looking to work on creative web projects, design systems, or coding challenges!
 
 📫 Reach Me
- -Email: [your-email@example.com]
+ -Email: [meherprativa09@gmail.com]
  -LinkedIn: [Your LinkedIn Profile]
 -Portfolio: [Your Website/Behance/Dribble]
 
