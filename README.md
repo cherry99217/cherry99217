@@ -1,6 +1,7 @@
 Hey there! I’m Pratibha Meher (cherry99217) 🌸
+
 🎨 Graphic Designer | Web/App Developer | UI/UX Enthusiast
-321
+
 🌱 Currently Learning
  -Frontend: HTML, CSS, JavaScript
  -Backend: Java
@@ -16,11 +17,11 @@ Hey there! I’m Pratibha Meher (cherry99217) 🌸
 
 📫 Reach Me
  -Email: [meherprativa09@gmail.com]
- -LinkedIn: [Your LinkedIn Profile]
--Portfolio: [Your Website/Behance/Dribble]
+ -LinkedIn: [https://www.linkedin.com/in/pratibha-meher-4b71aa252/]
+ -Portfolio: [portfolio/Behance/Dribble]
 
 ⚡ Fun Fact
-[Add a quirky fact, e.g., "I can solve a Rubik’s cube in under 2 minutes!" or "I love doodling while debugging code!"]
+I design pixel-perfect UIs by day and obsessively match color palettes in my dreams—once picked a hex code based on my breakfast cereal box!
 <!---
 cherry99217/cherry99217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
